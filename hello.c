@@ -1,12 +1,9 @@
 #include <stdio.h>
+#include <cs50>
+int main(void){
 
-int main(void)
-{
-  
-  // Step ( 1 ) : Print Hello, World
-  
-  
-  
-  //Step ( 2 ) : Print Hello, Your Name
+string name = get-string(what is your name?:");fatima
+printf(hello,name:);
 
 }
+{
