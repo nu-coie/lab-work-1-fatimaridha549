@@ -4,7 +4,7 @@ int main(void){
 
 
 string name = get-string(what is your name?:");
-printf("hello %s\n",name");
+printf("hello %s\n" ,name);
 
 }
 {
