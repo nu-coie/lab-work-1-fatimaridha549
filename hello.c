@@ -3,7 +3,7 @@
 int main(void){
 
 string name = get-string(what is your name?:");fatima
-printf(hello,name:);
+printf(hello%s\n",name");
 
 }
 {
