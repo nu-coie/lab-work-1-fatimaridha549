@@ -1,12 +1,9 @@
-#include <stdio.h>
-#include <cs50.h>
+
+include<stdio.h>
+#include<cs50.h>
 int main(void){
-printf('hello' world, answer./n);
-
-
-string answer
- = get-string(what is your name?:");
-
-
+char *s=get_string(" s  :      ");
+char *t = s ;
+printf("  t :%s\n" , t)
+printf("s : %s\n" , s)
 }
-{
